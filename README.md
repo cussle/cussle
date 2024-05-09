@@ -43,8 +43,10 @@
   <br>
 
   <h3>📬 Contact 📬</h3>
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="instagram.com/beanb_in">
-  <img src="https://img.shields.io/badge/mail-FFCD00?style=for-the-badge&logo=kakao&logoColor=white" href="mailto:﻿"cussle@kakao.com">
+  <a href="instagram.com/beanb_in"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:﻿"cussle@kakao.com"><img src="https://img.shields.io/badge/mail-FFCD00?style=for-the-badge&logo=kakao&logoColor=white"></a>
+  
+  
 
 
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cussle&layout=compact) -->
