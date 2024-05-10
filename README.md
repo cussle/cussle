@@ -65,9 +65,12 @@
       </td>
       <td align="center" valign="middle">
         <a href="https://www.kakaotechcampus.com/">
-          <img src="https://res.cloudinary.com/cussle/image/upload/v1715324706/github/logo/niev8mteyyormoltp0i7.png" height="50">
+          <img src="https://res.cloudinary.com/cussle/image/upload/v1715324706/github/logo/niev8mteyyormoltp0i7.png" height="50"">
         </a>
       </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><!-- 빈 칸으로 남겨두어 균형 유지 --></td>
       <td align="center" valign="middle">
         <a href="http://www.eduplex.net/">
           <img src="https://res.cloudinary.com/cussle/image/upload/v1715324750/github/logo/bpdfi4xxgq2a1p4l9lix.png" height="25">
