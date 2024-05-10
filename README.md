@@ -53,7 +53,7 @@
   <h3 align="center">🏢 Associations 🏢</h3>
   <table align="center">
     <tr>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" rowspan="2">
         <a href="https://computer.cnu.ac.kr/computer/index.do">
           <img src="https://res.cloudinary.com/cussle/image/upload/v1715324636/github/logo/lg4bxkeqvhjo2v8ost2i.png" height="50">
         </a>
@@ -65,12 +65,11 @@
       </td>
       <td align="center" valign="middle">
         <a href="https://www.kakaotechcampus.com/">
-          <img src="https://res.cloudinary.com/cussle/image/upload/v1715324706/github/logo/niev8mteyyormoltp0i7.png" height="50"">
+          <img src="https://res.cloudinary.com/cussle/image/upload/v1715324706/github/logo/niev8mteyyormoltp0i7.png" height="50">
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><!-- 빈 칸으로 남겨두어 균형 유지 --></td>
       <td align="center" valign="middle">
         <a href="http://www.eduplex.net/">
           <img src="https://res.cloudinary.com/cussle/image/upload/v1715324750/github/logo/bpdfi4xxgq2a1p4l9lix.png" height="25">
@@ -83,6 +82,8 @@
       </td>
     </tr>
   </table>
+
+
 
 
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cussle&layout=compact) -->
