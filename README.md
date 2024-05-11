@@ -2,9 +2,20 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&text=cussle&animation=fadeIn&height=200&fontAlignY=35)
 
-  <h3 class="title">👨‍💻 Github Stats 👨‍💻</h3>
+  <h3 class="title">👨‍💻 Stats 👨‍💻</h3>
+  <table align="center">
+    <tr>
+      <td align="center" valign="middle">
+        
+  [![GitHub Streak](https://streak-stats.demolab.com?user=cussle&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+      </td>
+      <td align="center" valign="middle">    
+      
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcussle)](https://solved.ac/kcussle)
+      </td>
+    </tr>
+  </table>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=cussle&theme=transparent&border_radius=5)](https://git.io/streak-stats)
 
   <br>
   <h3 class="title">💎 Tech Stack 💎</h3>
@@ -46,6 +57,7 @@
   <div class="contentWrapper">
     <a href="https://www.instagram.com/beanb_in"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:﻿"cussle@kakao.com"><img src="https://img.shields.io/badge/mail-FFCD00?style=for-the-badge&logo=kakao&logoColor=white"></a>
+    <a href="https://calendly.com/cussle"><img src="https://img.shields.io/badge/calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white"></a>
   </div>
   
   <br>
