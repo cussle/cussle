@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&text=cussle&animation=fadeIn&height=200&fontAlignY=35)
 
   <h3 class="title">👨‍💻 Stats 👨‍💻</h3>
-  <table align="center">
+  <table>
     <tr>
       <td align="center" valign="middle">
         
@@ -62,8 +62,8 @@
   
   <br>
 
-  <h3 align="center">🏢 Associations 🏢</h3>
-  <table align="center">
+  <h3 class="title">🏢 Associations 🏢</h3>
+  <table>
     <tr>
       <td align="center" valign="middle" rowspan="2">
         <a href="https://computer.cnu.ac.kr/computer/index.do">
