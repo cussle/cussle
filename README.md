@@ -1,7 +1,4 @@
 <div align="center">
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&text=cussle&animation=fadeIn&height=200&fontAlignY=35)
-
   <h3 class="title">👨‍💻 Stats 👨‍💻</h3>
   <table>
     <tr>
@@ -97,9 +94,6 @@
 
 
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cussle&layout=compact) -->
-
-
-  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=30)
 </div>
 
 
