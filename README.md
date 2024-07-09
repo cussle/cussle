@@ -13,16 +13,12 @@
     </tr>
   </table>
 
-  <br>
-
   <h3 class="title">📬 Contact 📬</h3>
   <div class="contentWrapper">
     <a href="https://www.instagram.com/beanb_in"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:﻿"cussle@kakao.com"><img src="https://img.shields.io/badge/mail-FFCD00?style=for-the-badge&logo=kakao&logoColor=white"></a>
     <a href="https://calendly.com/cussle"><img src="https://img.shields.io/badge/calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white"></a>
   </div>
-  
-  <br>
 
   <h3 class="title">🏢 Associations 🏢</h3>
   <table>
@@ -56,8 +52,6 @@
       </td>
     </tr>
   </table>
-
-
 </div>
 
 
