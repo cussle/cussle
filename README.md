@@ -15,8 +15,9 @@
 
   <h3 class="title">📬 Contact 📬</h3>
   <div class="contentWrapper">
-    <a href="mailto:﻿"cussle@kakao.com"><img src="https://img.shields.io/badge/mail-FFCD00?style=for-the-badge&logo=kakao&logoColor=white"></a>
-    <a href="https://calendly.com/cussle"><img src="https://img.shields.io/badge/calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/kyungbin-lee"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:﻿"cussle@kakao.com"><img src="https://img.shields.io/badge/mail-FFCD00?style=for-the-badge&logoColor=white"></a>
+    <a href="https://calendly.com/cussle"><img src="https://img.shields.io/badge/calendly-006BFF?style=for-the-badge&logoColor=white"></a>
   </div>
 
   <h3 class="title">🏢 Associations 🏢</h3>
