@@ -1,59 +1,8 @@
-<div align="center">
-  <h3 class="title">👨‍💻 Stats 👨‍💻</h3>
-  <table>
-    <tr>
-      <td align="center" valign="middle">
-        
-  [![GitHub Streak](https://streak-stats.demolab.com?user=cussle&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
-      </td>
-      <td align="center" valign="middle">    
-      
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcussle)](https://solved.ac/kcussle)
-      </td>
-    </tr>
-  </table>
+### 📚 Education
+- B.Eng. in Computer Science and Engineering, [Chungnam National University](https://plus.cnu.ac.kr/html/en/) (2020.03. ~ 2026.02.)
 
-  <h3 class="title">📬 Contact 📬</h3>
-  <div class="contentWrapper">
-    <a href="https://www.linkedin.com/in/kyungbin-lee"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:﻿"cussle@kakao.com"><img src="https://img.shields.io/badge/mail-FFCD00?style=for-the-badge&logoColor=white"></a>
-    <a href="https://calendly.com/cussle"><img src="https://img.shields.io/badge/calendly-006BFF?style=for-the-badge&logoColor=white"></a>
-  </div>
-
-  <h3 class="title">🏢 Associations 🏢</h3>
-  <table>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://computer.cnu.ac.kr/computer/index.do">
-          <img src="https://res.cloudinary.com/cussle/image/upload/v1715324636/github/logo/lg4bxkeqvhjo2v8ost2i.png" height="50">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://csrc.cnu.ac.kr/csrc/main.do">
-          <img src="https://res.cloudinary.com/cussle/image/upload/v1715324660/github/logo/kj8jusbdqgfpjpeidvfe.png" height="30">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.iotiq.de/en">
-          <img src="https://www.iotiq.de/wp-content/uploads/2024/06/iotiq-logo-1.png" height="70">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<!--
-**cussle/cussle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏢 Experience & Activities
+- Software Engineer, [NICE P&I](https://www.nice.co.kr/en/) (2026.04. ~)
+- Global Intern, [IOTIQ GmbH](https://www.iotiq.de/en/) / [ERSTE Software](https://www.ersteyazilim.com/en/) (2025.06. ~ 2025.08.)
+- [Kakao Tech Campus](https://www.kakaotechcampus.com/) 2nd Backend Course (2024.04. ~ 2024.11.)
+- Micro-degree, [CNU Convergence Security Research Center](https://csrc.cnu.ac.kr/) (2024.03. ~ 2026.02.)
